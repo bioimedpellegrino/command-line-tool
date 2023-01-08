@@ -37,4 +37,4 @@ $ sudo chmod +x ~/bin/<command_name>
 
 4) Finally export bin path
 
-export PATH=$PATH":$HOME/bin"
+export PATH=$PATH":$HOME/bin"  OR cp cli ~/.local/bin/<command_name>
